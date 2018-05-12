@@ -1,0 +1,28 @@
+_repo: '---_25521'
+_version: 0.1.0
+alternative_title: Yu li hun
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Xu, Zhenya
+    alias: 徐枕亞
+    birthdate: 1889
+    deathdate: 1937
+    gutenberg_agent_id: '31389'
+    url: http://www.gutenberg.org/2009/agents/31389
+description: ''
+gutenberg_issued: '2008-05-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25521'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Chinese fiction -- 20th century'
+- !lcc 'PL'
+title: 玉梨魂
+url: http://www.gutenberg.org/ebooks/25521
